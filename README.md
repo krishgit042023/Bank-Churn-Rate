@@ -12,7 +12,7 @@ The insights derived from this project can help banks devise strategies to reduc
 **📂 Dataset**
 
 Source: Kaggle
-Description: The dataset contains customer demographics, account information, and churn status.
+ Description: The dataset contains customer demographics, account information, and churn status.
 Key Columns:
 CustomerId: Unique identifier for customers
 CreditScore, Geography, Gender: Customer attributes
