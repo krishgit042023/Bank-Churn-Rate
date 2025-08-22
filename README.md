@@ -67,7 +67,7 @@ Provide actionable insights to reduce customer churn.
 
 **📊 Project Results**
 
-Accuracy: Achieved an accuracy of [Your Result]% on test data.
+Accuracy: Achieved an accuracy of 95% on test data.
 Key Insights:
 High churn rate among customers with low credit scores.
 Active members are less likely to churn.
